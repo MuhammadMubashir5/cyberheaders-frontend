@@ -1,0 +1,7 @@
+Django==4.2
+djangorestframework==3.14.0
+httpx==0.25.0
+google-generativeai==0.3.2
+python-dotenv==1.0.0
+reportlab==4.0.4
+dnspython==2.4.2
