@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/cyberheaders.iml" filepath="$PROJECT_DIR$/.idea/cyberheaders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CyberHeaders.iml" filepath="$PROJECT_DIR$/.idea/CyberHeaders.iml" />
     </modules>
   </component>
 </project>
